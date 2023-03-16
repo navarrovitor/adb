@@ -9,23 +9,39 @@ require "caracal"
 files = %w[inaja]
 
 files.each do |file|
+  # Set document H1 styling
   Caracal::Document.save "output/#{file}.docx" do |document|
     document.style do
-      id "Heading1" # sets the internal identifier for the style.
-      name "heading 1" # sets the friendly name of the style.
-      type "paragraph" # sets the style type. accepts `paragraph` or `character`
-      font "Arial" # sets the font family.
-      size 28 # sets the font size. units in half points.
-      bold true # sets the font weight.
+      id "Heading1"
+      name "heading 1"
+      type "paragraph"
+      font "Arial"
+      size 72
+      bold true
+      bottom 0
+      top 0
+      color 'fca311'
     end
 
+    # Defines the string that will be the header on each page
+    page_header = "Povoado"
+
+    # Reads input csv file using BOM and utf-8 encoding and the first row elements as the headers
     CSV.foreach(
       "input/#{file}.csv",
       headers: :first_row,
       encoding: "bom|utf-8"
     ) do |row|
-      new_line = ->(field) { field + ": #{row[field].upcase}" }
-      document.h1 "New Page"
+      # Insert the header h1
+      document.h1 row[page_header]
+      # Iterates through all the csv headers but the page header (defined in line 31) and insert the info in the document
+      (row.headers - [page_header]).each do |header|
+        document.p header + ':'
+        document.p "#{row[header].nil? ? '-' : row[header].upcase}" do
+            bold true
+        end
+      end
+      # Adds a new page to the document
       document.page
     end
   end
