@@ -1,0 +1,81 @@
+O povoado GRAVATA DO LOBO da unidade CEARA é atendido há 15-20 ANOS
+Agente: JOSE ILTON BARBOSA, Secretária: ANA CLAUDIA HENRIQUES
+- ESTRADA
+A distância para o CT é de MAIS DE 20 KM e a situação da estrada é RUIM
+Descrição da estrada: ESTRADA PASSANDO PELO LOBO E BEM RUIM. A ESTRADA MELHOR AUMENTA 4KM
+- CASAS
+A situação das casas é REGULAR
+Tem casas de taipa? SIM (1 A 5)
+As casas tem banheiro? SIM
+A situação dos móveis é REGULAR
+- POVOADO
+Situação do esgoto: NAO TEM ESGOTO ENCANADO
+Abastecimento da água: POCO ARTESIANO;
+Outras formas de abastecimento de água: -
+Poço artesiano: DA PREFEITURA-ESTADO;
+Observações do poço: -
+Caminhões pipa? AMIGOS DO BEM;PREFEITURA;
+Caminhões pipa dos Amigos do Bem? SIM,SOMENTE EM SITUACOES DE EMERGENCIA
+O povoado tem energia elétrica? SIM
+O povoado tem internet? SIM
+O povoado tem sinal de celular? SIM, DAS OPERADORAS TIM;
+O povoado tem escolas? NAO - -
+Situação da escola: -
+Demandas da escola: -
+Há ação de jovens? NAO EXISTE;
+Há crianças atendidas no CT? NAO
+Os jovens do povoado vão ao CT? NÃO RESPONDIDO
+Os ônibus dos Amigos do bem atendem ao povoado? Ou o povo precisa se deslocar até outro povoado? - -
+Esses ônibus estão em qual situação? -
+Há monitores para acompanhar nesses ônibus? NÃO
+Como é feito o deslocamento extra? -
+Como é o auxílio dos Amigos do Bem no deslocamento extra? -
+Qual a principal fonte de renda do povoado? ROCA,VIAJAM PARA TRABALHAR (CANA,LARANJA).
+Participam do projeto Mudas Amigos do Bem? SIM
+Têm interesse de participar? JA PARTICIPA
+O povoado tem igrejas ou templos? CATOLICA;
+Como é a religiosidade do povoado? BOM
+Ocorrem palestras do Projeto Transformacao? SIM
+Realizam Projeto transformacao com outros povoados? NAO
+Realizam Projeto transformacao com outros povoados? NAO
+Quais? -
+Qual o local onde ocorre o Projeto transformação? ESCOLA -
+Qual a infraestrutura do local do Projeto transformação? ESCOLA
+Qual a quantidade de pessoas que participam do Projeto transformação? ATE 50
+O local é adequado para o Projeto transformação? NAO
+Há a necessidade de construção de um Espaço do Bem? SIM
+Em qual local? TERRENO PARTICULAR
+Há a necessidade de containers? SIM
+Em qual local? TERRENO PARTICULAR.
+A ficha de dados do container foi preenchida? NAO
+Existe algum bar no povoado? SIM
+Quantos? MENOS DE 5
+Há festas com bebida? NAO
+Como são as festas? -
+Há quantos casos de alcoolismo? MUITOS CASOS
+É realizado o Projeto Vitória? SIM
+Com qual frequência? A CADA 2 MESES
+Com qual frequência a equipe de São Paulo auxilia no Projeto Vitória? SAO ESPORADICAS
+Qual o local do Projeto Vitória? ESCOLA
+Observações adicionais do Projeto Vitória? A ESTRUTURA E PESSIMA. SEM BANHEIRO,SEM CADEIRAS,SO PODE SER FEITO DE DIA.
+Há trabalhadores dos Amigos do Bem? NAO
+Onde eles atuam? -
+Há voluntários dos Amigos do Bem? SIM
+Qual a quantidade de voluntário dos Amigos do Bem? 6-10 VOLUNTARIOS
+Qual a frequência do voluntariado dos Amigos do Bem? BOA
+Há posto de saúde ou hospital no povoado? NAO;
+Qual a distância e tempo de chegada se o posto for na sede do município? 8KM-EM SANTA FE NA PARAIBA-30 MINUTOS DE CARRO
+Há atendimento médico do SUS? NAO
+Há atendimento médico dos Amigos do Bem? NAO
+Há a necessidade de médicos, dentistas ou oftalmos dos Amigos do Bem? SIM
+Qual a frequência de atendimento de médicos no povoado? NAO POSSUI
+Há atendimendo de dentistas do SUS no povoado? NAO
+Há atendimendo de dentistas do SUS no povoado? NAO
+Qual a frequência de atendimento de dentistas no povoado? NAO POSSUI
+O povoado já teve Grupo Visão? NAO
+Quantos moradores comparecem nas consultas dos Amigos do Bem? 1 A 5
+Há acesso a energia elétrica trifásica para caminhões da saúde? SIM
+Há acesso de remédios local no povoado? NAO.
+Quais as doenças mais frequentes do povoado? VIROSES;
+Há deficiência física ou mental no povoado? NAO HA CASOS NO POVOADO.
+Observações gerais: A LOCAL PARA RECEBER OS AMIGOS DO BEM NAO TEM MESA,CADEIRA,BANHEIRO,LUZ. SO PODE FAZER O PROJETO TRANSFORMACAO E O PROJETO VITORIA DE DIA,POR CAUSA DA LUZ. A AGUA NAO E ENCANADA,QUEM TEM CONDICOES COMPRA MANGUEIRA. PARA ESTUDAR,AS CRIANCAS PRECISAM IR PARA A SANTA FE NA PARAIBA OU EM NOVA SANTA CRUZ-DEPENDE DO ANO ESCOLAR.

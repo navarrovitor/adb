@@ -1,0 +1,81 @@
+O povoado PIEDADE da unidade ALAGOAS é atendido há 1-5 ANOS
+Agente: DIJAIR, Secretária: THAINARA 
+- ESTRADA
+A distância para o CT é de 16-20 KM e a situação da estrada é REGULAR
+Descrição da estrada: PREFEITURA PASSOU MAQUINA
+- CASAS
+A situação das casas é REGULAR
+Tem casas de taipa? SIM (6 A 10)
+As casas tem banheiro? NAO
+A situação dos móveis é REGULAR
+- POVOADO
+Situação do esgoto: AR LIVRE
+Abastecimento da água: CISTERNA;POCO ARTESIANO;
+Outras formas de abastecimento de água: -
+Poço artesiano: NAO FUNCIONA ;
+Observações do poço: -
+Caminhões pipa? AMIGOS DO BEM;PREFEITURA;EXERCITO;
+Caminhões pipa dos Amigos do Bem? SIM,REGULARMENTE
+O povoado tem energia elétrica? SIM
+O povoado tem internet? NAO
+O povoado tem sinal de celular? SIM, DAS OPERADORAS CLARO;TIM;OI;
+O povoado tem escolas? SIM - Obs: 1 AO 5 ANO DO ENSINO FUNDAMENTAL;6 AO 9 ANO DO ENSINO FUNDAMENTAL;
+Situação da escola: BOM
+Demandas da escola: PRECISA DE MAIS SALAS
+Há ação de jovens? NAO EXISTE;
+Há crianças atendidas no CT? NAO
+Os jovens do povoado vão ao CT? NÃO RESPONDIDO
+Os ônibus dos Amigos do bem atendem ao povoado? Ou o povo precisa se deslocar até outro povoado? - -
+Esses ônibus estão em qual situação? -
+Há monitores para acompanhar nesses ônibus? NÃO
+Como é feito o deslocamento extra? -
+Como é o auxílio dos Amigos do Bem no deslocamento extra? -
+Qual a principal fonte de renda do povoado? BOLSA FAMILIA-TRABALHAM FORA DO ESTADO
+Participam do projeto Mudas Amigos do Bem? NAO
+Têm interesse de participar? SIM
+O povoado tem igrejas ou templos? CATOLICA;EVANGELICA;
+Como é a religiosidade do povoado? MUITO BOM
+Ocorrem palestras do Projeto Transformacao? SIM
+Realizam Projeto transformacao com outros povoados? SIM
+Realizam Projeto transformacao com outros povoados? SIM
+Quais? LAGOA SECA-BOA VISTA-BOQUEIRAO -VALE DO MEL-CAPIM GROSSO
+Qual o local onde ocorre o Projeto transformação? ESCOLA -
+Qual a infraestrutura do local do Projeto transformação? ESCOLA
+Qual a quantidade de pessoas que participam do Projeto transformação? ATE 200
+O local é adequado para o Projeto transformação? SIM
+Há a necessidade de construção de um Espaço do Bem? NAO
+Em qual local? -
+Há a necessidade de containers? SIM
+Em qual local? ESCOLA ESTA DESATIVADA
+A ficha de dados do container foi preenchida? NAO
+Existe algum bar no povoado? SIM
+Quantos? MENOS DE 5
+Há festas com bebida? SIM
+Como são as festas? FESTA FAMILIAR
+Há quantos casos de alcoolismo? POUCOS CASOS
+É realizado o Projeto Vitória? SIM
+Com qual frequência? A CADA 1 MES
+Com qual frequência a equipe de São Paulo auxilia no Projeto Vitória? A CADA 1 MES
+Qual o local do Projeto Vitória? ESCOLA
+Observações adicionais do Projeto Vitória? REALIZADO PELA PRIMEIRA VEZ NO POVOADO-DEZEMBRO
+Há trabalhadores dos Amigos do Bem? NAO
+Onde eles atuam? -
+Há voluntários dos Amigos do Bem? SIM
+Qual a quantidade de voluntário dos Amigos do Bem? MAIS DE 20 VOLUNTARIOS
+Qual a frequência do voluntariado dos Amigos do Bem? MUITO BOA
+Há posto de saúde ou hospital no povoado? NAO;
+Qual a distância e tempo de chegada se o posto for na sede do município? FAZENDA NOVA-6KM
+Há atendimento médico do SUS? SIM
+Há atendimento médico dos Amigos do Bem? SIM
+Há a necessidade de médicos, dentistas ou oftalmos dos Amigos do Bem? JA SAO ATENDIDOS POR MEDICOS E DENTISTAS DOS AMIGOS DO BEM
+Qual a frequência de atendimento de médicos no povoado? 1 VEZ SEMANA
+Há atendimendo de dentistas do SUS no povoado? SIM
+Há atendimendo de dentistas do SUS no povoado? SIM
+Qual a frequência de atendimento de dentistas no povoado? 1X POR MES
+O povoado já teve Grupo Visão? NAO
+Quantos moradores comparecem nas consultas dos Amigos do Bem? ACIMA DE 10
+Há acesso a energia elétrica trifásica para caminhões da saúde? SIM
+Há acesso de remédios local no povoado? SIM,MAS COM MUITA DIFICULDADE.
+Quais as doenças mais frequentes do povoado? HIPERTENSAO ARTERIAL (PRESSAO);DIABETES;DIARREIA;DOENCAS DE PELE;DOENCAS PULMONARES;DOENCAS NOS OSSOS;CANCER;DOENCAS OCULARES;
+Há deficiência física ou mental no povoado? SIM,FISICA E MENTAL
+Observações gerais: -

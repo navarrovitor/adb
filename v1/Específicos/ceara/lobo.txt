@@ -1,0 +1,81 @@
+O povoado LOBO da unidade CEARA é atendido há 15-20 ANOS
+Agente: LUCIA PEDRO DA SILVA, Secretária: ANA CLAUDIA HENRIQUES
+- ESTRADA
+A distância para o CT é de 16-20 KM e a situação da estrada é REGULAR
+Descrição da estrada: CHEIA DE BURACOS.
+- CASAS
+A situação das casas é REGULAR
+Tem casas de taipa? SIM (1 A 5)
+As casas tem banheiro? SIM
+A situação dos móveis é REGULAR
+- POVOADO
+Situação do esgoto: ESGOTO A CEU ABERTO. FOSSA.
+Abastecimento da água: POCO ARTESIANO;OUTROS;
+Outras formas de abastecimento de água: CACIMBA E CAMINHAO PIPA
+Poço artesiano: DOS AMIGOS DO BEM;
+Observações do poço: -
+Caminhões pipa? NAO
+Caminhões pipa dos Amigos do Bem? SIM
+O povoado tem energia elétrica? SIM
+O povoado tem internet? SIM
+O povoado tem sinal de celular? NÃO
+O povoado tem escolas? SIM - Obs: 1 AO 3 ANOS DO ENSINO MEDIO;
+Situação da escola: RUIM
+Demandas da escola: NECESSITA DE REFORMA. SEM MERENDA.
+Há ação de jovens? NAO EXISTE;
+Há crianças atendidas no CT? SIM
+Os jovens do povoado vão ao CT? NÃO RESPONDIDO
+Os ônibus dos Amigos do bem atendem ao povoado? Ou o povo precisa se deslocar até outro povoado? PRECISAM IR ATE OUTRO POVOADO -
+Esses ônibus estão em qual situação? ONIBUS EM BOM ESTADO E COM LOTACAO ADEQUADA
+Há monitores para acompanhar nesses ônibus? NÃO
+Como é feito o deslocamento extra? OUTROS
+Como é o auxílio dos Amigos do Bem no deslocamento extra? PAGAM UM CARRO DE TERCA E QUINTA-FEIRA.
+Qual a principal fonte de renda do povoado? ROCA E FABRICA DOS AMIGOS DO BEM.
+Participam do projeto Mudas Amigos do Bem? SIM
+Têm interesse de participar? JA PARTICIPA
+O povoado tem igrejas ou templos? CATOLICA;
+Como é a religiosidade do povoado? BOM
+Ocorrem palestras do Projeto Transformacao? SIM
+Realizam Projeto transformacao com outros povoados? SIM
+Realizam Projeto transformacao com outros povoados? SIM
+Quais? SERRA DA AREIA,SITIO SANTO ANTONIO,SITIO BARROS E SITIO AREIAO.
+Qual o local onde ocorre o Projeto transformação? IGREJA -
+Qual a infraestrutura do local do Projeto transformação? IGREJA
+Qual a quantidade de pessoas que participam do Projeto transformação? ATE 100
+O local é adequado para o Projeto transformação? SIM
+Há a necessidade de construção de um Espaço do Bem? SIM
+Em qual local? TERRENO PARTICULAR
+Há a necessidade de containers? SIM
+Em qual local? TERRENO PARTICULAR
+A ficha de dados do container foi preenchida? SIM
+Existe algum bar no povoado? SIM
+Quantos? MENOS DE 5
+Há festas com bebida? NAO
+Como são as festas? -
+Há quantos casos de alcoolismo? NAO HA.
+É realizado o Projeto Vitória? NAO
+Com qual frequência? -
+Com qual frequência a equipe de São Paulo auxilia no Projeto Vitória? -
+Qual o local do Projeto Vitória? -
+Observações adicionais do Projeto Vitória? -
+Há trabalhadores dos Amigos do Bem? SIM
+Onde eles atuam? FABRICA DE CAJU;CAMPO;
+Há voluntários dos Amigos do Bem? SIM
+Qual a quantidade de voluntário dos Amigos do Bem? ATE 5 VOLUNTARIOS
+Qual a frequência do voluntariado dos Amigos do Bem? BOA
+Há posto de saúde ou hospital no povoado? NAO;
+Qual a distância e tempo de chegada se o posto for na sede do município? NOVA SANTA CRUZ-13KM
+Há atendimento médico do SUS? NAO
+Há atendimento médico dos Amigos do Bem? SIM
+Há a necessidade de médicos, dentistas ou oftalmos dos Amigos do Bem? SIM
+Qual a frequência de atendimento de médicos no povoado? NAO POSSUI
+Há atendimendo de dentistas do SUS no povoado? NAO
+Há atendimendo de dentistas do SUS no povoado? NAO
+Qual a frequência de atendimento de dentistas no povoado? NAO POSSUI
+O povoado já teve Grupo Visão? SIM
+Quantos moradores comparecem nas consultas dos Amigos do Bem? 5 A 10
+Há acesso a energia elétrica trifásica para caminhões da saúde? SIM
+Há acesso de remédios local no povoado? NAO.
+Quais as doenças mais frequentes do povoado? DOENCAS NOS OSSOS;DIABETES;HIPERTENSAO ARTERIAL (PRESSAO);
+Há deficiência física ou mental no povoado? NAO HA CASOS NO POVOADO.
+Observações gerais: UMA DAS CASAS DE TAIPA E ONDE D. FRANCISCA,CE 002302,MORA. A CASA NAO E PROPRIA E ESTA SENDO DESPEJADA. O POCO ABASTECE NO MAXIMO 7 FAMILIAS.

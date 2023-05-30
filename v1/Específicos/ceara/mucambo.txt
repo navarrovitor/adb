@@ -1,0 +1,81 @@
+O povoado MUCAMBO da unidade CEARA é atendido há 15-20 ANOS
+Agente: MARIA DO SOCORRO SIMIAO DE ARAUJO, Secretária: CLAUDIA FERRARESI
+- ESTRADA
+A distância para o CT é de 1-5 KM e a situação da estrada é REGULAR
+Descrição da estrada: QUANDO CHOVE A LAMA BURRACO
+- CASAS
+A situação das casas é REGULAR
+Tem casas de taipa? SIM (1 A 5)
+As casas tem banheiro? SIM
+A situação dos móveis é REGULAR
+- POVOADO
+Situação do esgoto: FOSSA
+Abastecimento da água: POCO ARTESIANO;ENCANADA;OUTROS;
+Outras formas de abastecimento de água: MANGUEIRA PELO POCO DOS AMIGOS
+Poço artesiano: DOS AMIGOS DO BEM;
+Observações do poço: -
+Caminhões pipa? NAO;
+Caminhões pipa dos Amigos do Bem? CASO SEJA SOLICITADO
+O povoado tem energia elétrica? SIM
+O povoado tem internet? SIM
+O povoado tem sinal de celular? SIM, DAS OPERADORAS TIM;CLARO;
+O povoado tem escolas? NAO - -
+Situação da escola: -
+Demandas da escola: -
+Há ação de jovens? NAO EXISTE;
+Há crianças atendidas no CT? SIM
+Os jovens do povoado vão ao CT? NÃO RESPONDIDO
+Os ônibus dos Amigos do bem atendem ao povoado? Ou o povo precisa se deslocar até outro povoado? NAO SE APLICA -
+Esses ônibus estão em qual situação? NAO SE APLICA
+Há monitores para acompanhar nesses ônibus? NÃO
+Como é feito o deslocamento extra? CARRO ALUGADO
+Como é o auxílio dos Amigos do Bem no deslocamento extra? TRANSPORTE PAGO PELOS AMIGOS DO BEM 3 D20
+Qual a principal fonte de renda do povoado? AGRICULTURA BOLSA FAMILIA FABRICA DE CAJU E COSTURA,CAMPO DE CAJU
+Participam do projeto Mudas Amigos do Bem? SIM
+Têm interesse de participar? JA PARTICIPA
+O povoado tem igrejas ou templos? CATOLICA;
+Como é a religiosidade do povoado? MUITO BOM
+Ocorrem palestras do Projeto Transformacao? SIM
+Realizam Projeto transformacao com outros povoados? SIM
+Realizam Projeto transformacao com outros povoados? SIM
+Quais? REALIZADOS NO CT AGRVILA COM OUTROS POVOADOS
+Qual o local onde ocorre o Projeto transformação? OUTROS  ou AGROVILA  CT
+Qual a infraestrutura do local do Projeto transformação? OUTROS
+Qual a quantidade de pessoas que participam do Projeto transformação? ATE 50
+O local é adequado para o Projeto transformação? SIM
+Há a necessidade de construção de um Espaço do Bem? SIM
+Em qual local? -
+Há a necessidade de containers? SIM
+Em qual local? NAO CONSEGUE IDENTIFICAR
+A ficha de dados do container foi preenchida? SIM
+Existe algum bar no povoado? SIM
+Quantos? MENOS DE 5
+Há festas com bebida? SIM
+Como são as festas? CASA DE FESTA LUGAR DE EVENTOS
+Há quantos casos de alcoolismo? POUCOS CASOS
+É realizado o Projeto Vitória? SIM
+Com qual frequência? A CADA 15 DIAS
+Com qual frequência a equipe de São Paulo auxilia no Projeto Vitória? SAO ESPORADICAS
+Qual o local do Projeto Vitória? IGREJA
+Observações adicionais do Projeto Vitória? FEITO NA CAPELA QUE FOI CONSTRUIDA AGORA,APRESENTA  POUCO BANCOS NAO TEM BANHEIRO 
+Há trabalhadores dos Amigos do Bem? SIM
+Onde eles atuam? FABRICA DE CAJU;CAMPO;OFICINA DE COSTURA;CT;
+Há voluntários dos Amigos do Bem? SIM
+Qual a quantidade de voluntário dos Amigos do Bem? MAIS DE 20 VOLUNTARIOS
+Qual a frequência do voluntariado dos Amigos do Bem? BOA
+Há posto de saúde ou hospital no povoado? NAO;VAO PARA COITE ;
+Qual a distância e tempo de chegada se o posto for na sede do município? QUASE 1 HORA
+Há atendimento médico do SUS? NAO
+Há atendimento médico dos Amigos do Bem? NAO
+Há a necessidade de médicos, dentistas ou oftalmos dos Amigos do Bem? JA SAO ATENDIDOS POR MEDICOS,OFTALMOS E DENTISTAS DOS AMIGOS DO BEM
+Qual a frequência de atendimento de médicos no povoado? NAO POSSUI
+Há atendimendo de dentistas do SUS no povoado? NAO
+Há atendimendo de dentistas do SUS no povoado? NAO
+Qual a frequência de atendimento de dentistas no povoado? NAO POSSUI
+O povoado já teve Grupo Visão? SIM
+Quantos moradores comparecem nas consultas dos Amigos do Bem? 1 A 5
+Há acesso a energia elétrica trifásica para caminhões da saúde? SIM
+Há acesso de remédios local no povoado? SIM,MAS COM MUITA DIFICULDADE.
+Quais as doenças mais frequentes do povoado? DIABETES;HIPERTENSAO ARTERIAL (PRESSAO);DOENCAS PULMONARES;DOENCAS NOS OSSOS;DEPRESSAO;
+Há deficiência física ou mental no povoado? SIM,FISICA E MENTAL
+Observações gerais: -

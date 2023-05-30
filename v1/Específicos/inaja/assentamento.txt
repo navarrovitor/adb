@@ -1,0 +1,81 @@
+O povoado ASSENTAMENTO da unidade INAJA é atendido há 1-5 ANOS
+Agente: ROSIVANIO, Secretária: ROSA BERTAOZINI
+- ESTRADA
+A distância para o CT é de MAIS DE 20 KM e a situação da estrada é RUIM
+Descrição da estrada: TEM UMA PARTE DE TERRA,POR CONTA DAS CHUVAS ESTAO RUINS
+- CASAS
+A situação das casas é REGULAR
+Tem casas de taipa? SIM (1 A 5)
+As casas tem banheiro? SIM
+A situação dos móveis é REGULAR
+- POVOADO
+Situação do esgoto: TEM FOSS
+Abastecimento da água: CISTERNA;
+Outras formas de abastecimento de água: -
+Poço artesiano: NAO EXISTE POCO ARTESIANO;
+Observações do poço: -
+Caminhões pipa? PREFEITURA;
+Caminhões pipa dos Amigos do Bem? NAO
+O povoado tem energia elétrica? SIM
+O povoado tem internet? SIM
+O povoado tem sinal de celular? SIM, DAS OPERADORAS TIM;
+O povoado tem escolas? NAO - -
+Situação da escola: -
+Demandas da escola: -
+Há ação de jovens? NAO EXISTE;
+Há crianças atendidas no CT? NAO
+Os jovens do povoado vão ao CT? NÃO RESPONDIDO
+Os ônibus dos Amigos do bem atendem ao povoado? Ou o povo precisa se deslocar até outro povoado? - -
+Esses ônibus estão em qual situação? -
+Há monitores para acompanhar nesses ônibus? NÃO
+Como é feito o deslocamento extra? -
+Como é o auxílio dos Amigos do Bem no deslocamento extra? -
+Qual a principal fonte de renda do povoado? ROCA,AUXILIO BRASIL
+Participam do projeto Mudas Amigos do Bem? NAO
+Têm interesse de participar? SIM
+O povoado tem igrejas ou templos? NAO EXISTE;
+Como é a religiosidade do povoado? REGULAR
+Ocorrem palestras do Projeto Transformacao? NAO
+Realizam Projeto transformacao com outros povoados? NAO REALIZAMOS PROJETO TRANSFORMACAO NESTE POVOADO
+Realizam Projeto transformacao com outros povoados? NAO REALIZAMOS PROJETO TRANSFORMACAO NESTE POVOADO
+Quais? -
+Qual o local onde ocorre o Projeto transformação? NAO REALIZAMOS PROJETO TRANSFORMACAO NESTE POVOADO -
+Qual a infraestrutura do local do Projeto transformação? NAO REALIZAMOS PROJETO TRANSFORMACAO NESTE POVOADO
+Qual a quantidade de pessoas que participam do Projeto transformação? NAO SE APLICA
+O local é adequado para o Projeto transformação? NAO REALIZAMOS PROJETO TRANSFORMACAO NESTE POVOADO
+Há a necessidade de construção de um Espaço do Bem? NAO
+Em qual local? -
+Há a necessidade de containers? SIM
+Em qual local? -
+A ficha de dados do container foi preenchida? NAO
+Existe algum bar no povoado? NAO
+Quantos? NENHUM
+Há festas com bebida? NAO
+Como são as festas? -
+Há quantos casos de alcoolismo? POUCOS CASOS
+É realizado o Projeto Vitória? NAO
+Com qual frequência? -
+Com qual frequência a equipe de São Paulo auxilia no Projeto Vitória? -
+Qual o local do Projeto Vitória? -
+Observações adicionais do Projeto Vitória? -
+Há trabalhadores dos Amigos do Bem? NAO
+Onde eles atuam? -
+Há voluntários dos Amigos do Bem? NAO
+Qual a quantidade de voluntário dos Amigos do Bem? -
+Qual a frequência do voluntariado dos Amigos do Bem? -
+Há posto de saúde ou hospital no povoado? NAO;
+Qual a distância e tempo de chegada se o posto for na sede do município? 10 KM
+Há atendimento médico do SUS? NAO
+Há atendimento médico dos Amigos do Bem? NAO
+Há a necessidade de médicos, dentistas ou oftalmos dos Amigos do Bem? SIM
+Qual a frequência de atendimento de médicos no povoado? NAO POSSUI
+Há atendimendo de dentistas do SUS no povoado? NAO
+Há atendimendo de dentistas do SUS no povoado? NAO
+Qual a frequência de atendimento de dentistas no povoado? NAO POSSUI
+O povoado já teve Grupo Visão? NAO
+Quantos moradores comparecem nas consultas dos Amigos do Bem? NAO SE APLICA
+Há acesso a energia elétrica trifásica para caminhões da saúde? NAO
+Há acesso de remédios local no povoado? SIM,MAS COM MUITA DIFICULDADE.
+Quais as doenças mais frequentes do povoado? HIPERTENSAO ARTERIAL (PRESSAO);DIABETES;VIROSES;DIARREIA;DOENCAS PULMONARES;DOENCAS NOS OSSOS;DOENCAS OCULARES;DOENCAS VIRAIS (DENGUE,ETC);
+Há deficiência física ou mental no povoado? SIM,FISICA E MENTAL
+Observações gerais: -

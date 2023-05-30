@@ -3,7 +3,7 @@ require "fileutils"
 require "caracal"
 
 # Empty output directory
-# FileUtils.rm_rf("output/.", secure: true)
+FileUtils.rm_rf("output/.", secure: true)
 
 # Put all the input file names so it can iterate through all
 files = %w[inaja]

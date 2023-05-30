@@ -1,0 +1,81 @@
+O povoado TORROES da unidade ALAGOAS é atendido há 15-20 ANOS
+Agente: JILVANE, Secretária: ARAIDES 
+- ESTRADA
+A distância para o CT é de 1-5 KM e a situação da estrada é BOA
+Descrição da estrada: NORMAL
+- CASAS
+A situação das casas é REGULAR
+Tem casas de taipa? NAO (0)
+As casas tem banheiro? SIM
+A situação dos móveis é REGULAR
+- POVOADO
+Situação do esgoto: AGUA ENCANADA NAO CHEGA A 8 DIAS PARTE DE CIMA,PRTE BAIXO TEM-LUZ NORMAL-
+Abastecimento da água: ENCANADA;
+Outras formas de abastecimento de água: -
+Poço artesiano: DA PREFEITURA-ESTADO;
+Observações do poço: -
+Caminhões pipa? AMIGOS DO BEM;
+Caminhões pipa dos Amigos do Bem? CASO SEJA SOLICITADO
+O povoado tem energia elétrica? SIM
+O povoado tem internet? SIM
+O povoado tem sinal de celular? NÃO
+O povoado tem escolas? SIM - Obs: AMIGOS DO BEM;
+Situação da escola: MUITO BOM
+Demandas da escola: ACOMPANHAMENTO DAS FAMILIAS NA ESCOLA
+Há ação de jovens? GRUPO DE JOVENS;
+Há crianças atendidas no CT? SIM
+Os jovens do povoado vão ao CT? NÃO RESPONDIDO
+Os ônibus dos Amigos do bem atendem ao povoado? Ou o povo precisa se deslocar até outro povoado? ATENDE -
+Esses ônibus estão em qual situação? ONIBUS EM BOM ESTADO E COM LOTACAO ADEQUADA
+Há monitores para acompanhar nesses ônibus? NÃO
+Como é feito o deslocamento extra? NAO SE APLICA
+Como é o auxílio dos Amigos do Bem no deslocamento extra? ALUGUEL DE CARRO-CLAUDIO-AB
+Qual a principal fonte de renda do povoado? AGRICULTURA-QDO TEM-OFICINA DE COSTURA-AB
+Participam do projeto Mudas Amigos do Bem? NAO
+Têm interesse de participar? NAO
+O povoado tem igrejas ou templos? EVANGELICA;CATOLICA;
+Como é a religiosidade do povoado? RUIM
+Ocorrem palestras do Projeto Transformacao? SIM
+Realizam Projeto transformacao com outros povoados? NAO
+Realizam Projeto transformacao com outros povoados? NAO
+Quais? -
+Qual o local onde ocorre o Projeto transformação? IGREJA -
+Qual a infraestrutura do local do Projeto transformação? IGREJA
+Qual a quantidade de pessoas que participam do Projeto transformação? ATE 200
+O local é adequado para o Projeto transformação? SIM
+Há a necessidade de construção de um Espaço do Bem? NAO
+Em qual local? JA TEMOS-
+Há a necessidade de containers? SIM
+Em qual local? JA TEMOS-JA COMPRAMOS
+A ficha de dados do container foi preenchida? NAO
+Existe algum bar no povoado? SIM
+Quantos? MENOS DE 5
+Há festas com bebida? SIM
+Como são as festas? FINAL DE SEMANA
+Há quantos casos de alcoolismo? MUITOS CASOS
+É realizado o Projeto Vitória? SIM
+Com qual frequência? A CADA 15 DIAS
+Com qual frequência a equipe de São Paulo auxilia no Projeto Vitória? A CADA 3 MESES
+Qual o local do Projeto Vitória? IGREJA
+Observações adicionais do Projeto Vitória? BOM
+Há trabalhadores dos Amigos do Bem? SIM
+Onde eles atuam? MOTORISTA;ESCOLA;CT;ARTESANATO;OFICINA DE COSTURA;CAMPO;
+Há voluntários dos Amigos do Bem? SIM
+Qual a quantidade de voluntário dos Amigos do Bem? MAIS DE 20 VOLUNTARIOS
+Qual a frequência do voluntariado dos Amigos do Bem? BOA
+Há posto de saúde ou hospital no povoado? AINDA NAO ESTA FUNCIONANDO;
+Qual a distância e tempo de chegada se o posto for na sede do município? 2 KM
+Há atendimento médico do SUS? NAO
+Há atendimento médico dos Amigos do Bem? SIM
+Há a necessidade de médicos, dentistas ou oftalmos dos Amigos do Bem? JA SAO ATENDIDOS POR MEDICOS,OFTALMOS E DENTISTAS DOS AMIGOS DO BEM
+Qual a frequência de atendimento de médicos no povoado? 1 VEZ SEMANA
+Há atendimendo de dentistas do SUS no povoado? SIM
+Há atendimendo de dentistas do SUS no povoado? SIM
+Qual a frequência de atendimento de dentistas no povoado? 1 VEZ SEMANA
+O povoado já teve Grupo Visão? NAO
+Quantos moradores comparecem nas consultas dos Amigos do Bem? ACIMA DE 10
+Há acesso a energia elétrica trifásica para caminhões da saúde? NAO
+Há acesso de remédios local no povoado? NAO.
+Quais as doenças mais frequentes do povoado? HIPERTENSAO ARTERIAL (PRESSAO);DIABETES;VIROSES;DOENCAS PULMONARES;DOENCAS OCULARES;
+Há deficiência física ou mental no povoado? SIM,FISICA E MENTAL
+Observações gerais: CASAS DE FAMILIAS VIRARAM BAR,CLAUDIO DEVERIA VOLTAR A FAZER AS REUNIOES DE RUA,DR. ROMULO RESPONDER RAPIDO AS SOLICITACOES DE REMEDIOS OU DUVIDAS DOS PACIENTES.PROJETO VITORIA
